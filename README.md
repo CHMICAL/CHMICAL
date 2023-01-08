@@ -5,7 +5,7 @@ Hello! Welcome to my profile. My name is Chris and I am currently a Business Ana
 You should find all my latest projects and contributions here on Github.
 
 In addition, You can find more information about my work and background on my LinkedIn profile:
-https://www.linkedin.com/in/chris-micallef/
+* https://www.linkedin.com/in/chris-micallef/
 
 ## Education
 * Software Engineering Bootcamp with HyperionDev (Present)
