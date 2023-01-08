@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello! Welcome to my profile. My name is Chris and I currently work as a Business Analyst. I have a deep passion for software engineering and all the latest in technological developments. I have experience in Property Insurance, Python, Business Analysis, agile development, and software development. In my free time, I like making music and have been a guitarist for many years, and playing videogames.
+Hello! Welcome to my profile. My name is Chris and I currently work as a Business Analyst. I have a deep passion for software engineering and all the latest in technological developments. I have experience in Property Insurance, Business Analysis, agile development, Python, and software development. In my free time, I like making music and have been a guitarist for many years, and I also enjoy playing videogames.
 
 You can find more information about my work and background on my LinkedIn profile:
 https://www.linkedin.com/in/chris-micallef/
