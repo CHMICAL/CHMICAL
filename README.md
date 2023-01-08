@@ -6,9 +6,9 @@ You can find more information about my work and background on my LinkedIn profil
 https://www.linkedin.com/in/chris-micallef/
 
 ## Education
-Software Engineering Bootcamp with HyperionDev (Present)
-Management MSc from University of Bristol (Distinction - 2021)
-Philosophy BA from University of Kent (2:1 - 2020)
+* Software Engineering Bootcamp with HyperionDev (Present)
+* Management MSc from University of Bristol (Distinction - 2021)
+* Philosophy BA from University of Kent (2:1 - 2020)
 
 ## Contact
 Feel free to contact me via email at chrismicallef05@gmail.com or through LinkedIn. Thank you for visiting my profile! |:)
