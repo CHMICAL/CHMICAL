@@ -13,4 +13,4 @@ https://www.linkedin.com/in/chris-micallef/
 * Philosophy BA from University of Kent (2:1 - 2020)
 
 ## Contact
-Feel free to contact me via email at chrismicallef05@gmail.com or through LinkedIn. Thank you for visiting my profile! |:)
+Feel free to contact me via email at chrismicallef05@gmail.com or through LinkedIn. Thank you for visiting my profile! :)
