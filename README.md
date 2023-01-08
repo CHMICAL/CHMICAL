@@ -1,21 +1,16 @@
-Introduction
+## Introduction
 
-Hello, I am [Your Name]. I am a [profession/field of study] with a passion for [something you are passionate about].
+Hello, I am Chris. I currently work as a Business Analyst with a passion for Software Engineering.
 
-I have experience in [list skills or experiences that make you stand out].
+I have experience in Property, Insurance, Python, Business Analysis, agile development, and software development..
 
 You can find more information about my work and background on my LinkedIn profile:
 
-[Insert LinkedIn profile link]
+https://www.linkedin.com/in/chris-micallef/
 
-Projects
-Here are some of my notable projects:
+## Education
+Management MSc from University of Bristol (Distinction)
+Philosophy BA from University of Kent (2:1)
 
-[Project 1 Name]: [Brief Description of Project]
-[Project 2 Name]: [Brief Description of Project]
-[Project 3 Name]: [Brief Description of Project]
-Education
-[Degree and field of study] from [University Name]
-[Any additional degrees or certifications]
-Contact
-Feel free to contact me via email at [Your email address] or through LinkedIn. Thank you for visiting my profile!
+## Contact
+Feel free to contact me via email at chrismicallef05@gmail.com or through LinkedIn. Thank you for visiting my profile! |:)
